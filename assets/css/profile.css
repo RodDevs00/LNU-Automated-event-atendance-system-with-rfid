@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+.profile {
+  font-weight: 500;
+  font-family: Segoe UI;
+  color: #979494;
+}
+
+.wrapper {
+  height: 100vh;
+  width: 100vw;
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+.sidebar {
+  position: relative;
+}
+
+.content-wrapper {
+  background-color: rgb(255, 255, 255);
+  margin-left: 220px;
+}
+
+hr {
+  border: 2px solid #707070;
+  opacity: 0.6;
+}
